@@ -1,0 +1,16 @@
+{
+  "name": "bulltest",
+  "version": "1.0.0",
+  "description": "bull redis test code",
+  "main": "producer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bull": "^3.22.8",
+    "log4js": "^6.3.0",
+    "random-string": "^0.2.0"
+  }
+}
